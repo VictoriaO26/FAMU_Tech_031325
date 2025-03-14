@@ -27,7 +27,9 @@ AdVantage leverages AI-driven first-party customer data to optimize personalized
 ## 
 
 ## Wireframe
-
+- Figma files
+- images
+- pdf
 
 ## Technology Stack
 - Backend: C++
@@ -35,6 +37,6 @@ AdVantage leverages AI-driven first-party customer data to optimize personalized
 - AI/ML: 
 - Cloude Storage: 
 
-## 
+## Usage
 
 ## 
