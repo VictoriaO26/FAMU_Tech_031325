@@ -10,19 +10,10 @@ AdVantage leverages AI-driven first-party customer data to optimize personalized
 - Personalized Ad Location – Tailors ad placement per business, estimating impressions, click-through rates (CTR), and engagement potential.
 - Improved Ad Efficiency – Increases the likelihood of users clicking on ads by optimizing for relevance and user behavior trends.
 
-## Installation
-Fig 
-
 ## Wireframe
-- Figma files
-- images
 
-## Technology Stack
-- Backend: python, 
+## Technology/Framework
+- Backend: python
 - Frontend Design: Figma
 - AI/ML: Open AI
-- Enviroment testing: Docker
 
-## (LLM)
-
-## 
